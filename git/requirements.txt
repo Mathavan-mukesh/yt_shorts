@@ -1,0 +1,31 @@
+# FastAPI backend
+fastapi==0.110.2
+pydantic==2.7.1
+uvicorn==0.29.0
+
+# Streamlit frontend
+streamlit==1.35.0
+requests==2.31.0
+
+# Whisper + Transformers
+transformers==4.41.1
+torch==2.3.0
+librosa==0.10.2.post1
+
+# MoviePy for video editing
+moviepy==1.0.3
+
+# YouTube video downloading
+yt-dlp==2024.5.27
+
+# Google Gemini / Generative AI
+google-generativeai==0.5.4
+
+# Environment variable support
+python-dotenv==1.0.1
+
+# For path handling (standard lib, no need to list)
+# pathlib (built-in)
+
+# Optional: for better error logging
+traceback2==1.4.0
